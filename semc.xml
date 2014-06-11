@@ -39,7 +39,7 @@
   <project name="LegacyXperia/android_packages_apps_Browser" path="packages/apps/Browser" revision="cm-11.0" remote="v" />
 
   <!--CarbonRom Framework projects-->
-  <remove project-name="CarbonDev/android_frameworks_av" />
+  <remove-project name="CarbonDev/android_frameworks_av" />
   <project name="android_frameworks_av" path="frameworks/av" revision="kk" remote="v" />
 </manifest>
 
