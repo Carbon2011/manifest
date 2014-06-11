@@ -32,9 +32,9 @@
   <project name="android_hardware_qcom_display-legacy" path="hardware/qcom/display-legacy" remote="v" revision="cm-11.0" />
 
   <!--Webkit-->
-  <project name="android_external_webkit" path="external/webkit" revision="cm-11.0" remote="v" />
   <remove-project name="CyanogenMod/android_frameworks_webview" />
   <remove-project name="CyanogenMod/android_packages_apps_Browser" />
+  <project name="android_external_webkit" path="external/webkit" revision="cm-11.0" remote="v" />
   <project name="android_frameworks_webview" path="frameworks/webview" revision="cm-11.0" remote="v" />
   <project name="LegacyXperia/android_packages_apps_Browser" path="packages/apps/Browser" revision="cm-11.0" remote="v" />
 
